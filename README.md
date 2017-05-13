@@ -12,3 +12,5 @@
 	- Graph algorithms
 	- Sorting algorithms
 	- String searching algorithms
+	- PageRank
+	- Bloom Filters
