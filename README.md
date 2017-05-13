@@ -1,4 +1,4 @@
-# Data Structures
+# Data Structures & Algorithms
 - Low-level implementation of various data structures in Java.
 	- ArrayLists
 	- Linked Lists
