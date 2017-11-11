@@ -8,7 +8,7 @@
 	- Heaps & Priority Queues
 	- Stacks & Queues
 
-- Implementation of fundemental algorithms.
+- Implementation of fundamental algorithms.
 	- Graph algorithms
 	- Sorting algorithms
 	- String searching algorithms
